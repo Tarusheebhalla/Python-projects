@@ -1,11 +1,8 @@
-Overview:  This project aims to analyse employee attrition using logistic regression to identify key factors, predict potential attritions, and recommend strategies to retain high performers.
+Overview: This project leverages logistic regression to analyze employee attrition, aiming to uncover the key drivers behind employee turnover, forecast potential future departures, and formulate targeted strategies to enhance retention of high-value employees.
 
-Objectives: 
-Identify factors influencing attrition. 
-Predict possible attritions. 
-Recommend ways to retain high performers.
+Objectives:
 
-
-Employee attrition refers to the loss of employees through several circumstances, such as resignation and retirement. The cause of attrition may be either voluntary or involuntary. Each industry has its own standards for acceptable attrition rates. 
-Due to the expenses associated with training new employees, any type of employee attrition is typically seen to have a monetary cost.
-Attrition rate at any organization for a given month is calculated as the total number of employees leaving the firm divided by the total headcount for that month.
+Identify and quantify the factors influencing employee attrition.
+Develop predictive models to forecast potential employee departures.
+Propose actionable strategies to improve employee retention and mitigate turnover risks.
+Employee attrition, encompassing both voluntary resignations and involuntary separations, signifies the departure of employees from an organization. Attrition can stem from various factors and carries significant financial implications, including the costs of recruiting, onboarding, and training new staff. Organizations typically measure attrition rates by calculating the ratio of departing employees to the total headcount for a specified period, providing a critical metric for assessing workforce stability and planning.
